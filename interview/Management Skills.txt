@@ -1,0 +1,79 @@
+Management Skills
+Creativity
+Digital Marketing
+Negotiation
+Critical Thinking
+Leadership
+
+training
+
+dedication ako
+curious
+
+
+Developed and customized Salesforce applications using Apex, Visualforce, and LWC.
+
+Collaborated with cross-functional teams to improve CRM functionalities and streamline processes.
+
+Created automation solutions that reduced manual tasks by 20%, enhancing team efficiency.
+
+Assisted multiple clients in implementing Salesforce solutions and customizing Salesforce environments.
+
+Developed custom triggers, flows, and validation rules to improve lead management and data integrity.
+-----
+
+Developed and customized Salesforce applications using Apex, Visualforce, and LWC.
+
+Collaborated with teams to enhance CRM functionalities and streamline operations.
+
+Created custom workflows and automation, reducing manual processes by 20%.
+----------------------
+Salesforce Developer with 2.5 years of experience in creating custom Salesforce solutions and improving CRM processes. Skilled in Apex, Lightning components, and data integration. Passionate about leveraging Salesforce to drive business results.
+
+-----------------------
+Salesforce Developer with strong expertise in developing custom solutions on the Salesforce platform. Experienced in Apex, Visualforce, and Lightning components, with a passion for optimizing CRM workflows and driving process automation.
+
+Developer with 3+ years of experience in developing custom solutions. Salesforce expertise in Apex, Lightning components, and API Integration, with a passion for optimizing CRM workflows and driving process automation.
+
+process automation, optimizing workflows, system integration, and client collaboration
+
+--------
+-code optimization and created unit testing, increased the reliability of code base
+-persevered in BE coding
+-productive ticket closer
+-active suggestion to code optimization during complex governor limit issue	
+-helped in discovery of legacy system
+-provided investigation during SOQL limit issue, which aided the architect for building market customizations
+-provided solutioning ideas for asynchronous coding, and initiated enhancements
+-provided solutioning ideas to long ongoing finance application issue
+-participate in integration testing for months, which included SAP, OTD, SAP-PI, Apigee team
+-initiated mastering the fundamentals of API integration, which set the bar for learning standard among consultant developers
+-discovered and solved a dormant issue which required code rework on a global market impact
+-proposed opening an active knowledge base for the salesforce platform
+-built batch exports for the project, allowing collaboration with the client and third party integration team
+-became a primary resource in attending market P1 issues during hypercare, keeping close contact with the SAP, Integration, PMO, stakeholders, and support
+-utilized organizational skills to foster team engagements
+---------------------------------
+
+◼ 1--A story where you SOLVED a vexing problem.
+- provided code optimization ideas to the table. significantly contribute to reducing governor limits encountered.
+
+◼ 2--A story where you LED successfully.
+- naging key developer sa project, for months, i became the key developer in salesforce side during integration testing. 
+
+◼ 3--A story that showed how you successfully worked as part of a TEAM.
+- part of hypercare, working in team 
+
+◼ 4--A story that demonstrates GOING BEYOND expectations.
+- suggested code enhancements
+- resourceful
+
+◼ 5--A story that demonstrates your BIGGEST HR SKILL (related to the specific position you're interviewing for).
+
+
+- It doesn’t show:
+
+- The risks you’ve taken.
+- The strength you’ve shown in tough times.
+- The hours you’ve put in to get better at what you do.
+- The relationships you’ve built and the people you’ve helped.
