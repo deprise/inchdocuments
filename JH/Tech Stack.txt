@@ -1,0 +1,19 @@
+Salesforce.com
+Apex
+Lightning Components
+Visual Studio Code
+API Integration
+Asynchronous Coding
+Code Optimization
+Github
+Bitbucket
+Postman
+SOAPUI
+Data Migration
+Jira
+Confluence
+Elastic
+Eclipse IDE
+Manage Engine
+Java
+C#

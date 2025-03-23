@@ -1,0 +1,23 @@
+/*external style*/
+
+#another{
+    color:blueviolet;
+    font-size: 30px
+}
+
+/*this applies as default*/
+div{
+    color: red;
+}
+
+#another{ /*follows the latest*/
+    color:darkgreen
+}
+
+.header1{
+    border: 0.5cm solid chocolate;
+}
+
+.header1, .sample1{
+    margin-top: 16px solid blue;
+}

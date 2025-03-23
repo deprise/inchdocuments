@@ -1,0 +1,42 @@
+enjoy the journey, not just the destination
+
+maging serious all the time 
+
+
+
+governor limits
+approach to go asynchronous
+anything na metadata
+
+wala samin yung issue
+
+
+CPU limit, 10-60 sec
+SOQL limit, 
+heap size
+
+
+what help desk would do:
+replication steps
+know the issue, what is causing
+the impact
+
+document
+malaking issue, split into details and step by step
+last approach:
+approach niya na if reverse engineering
+
+note down for documentation
+
+
+migration to custom data
+
+
+cross-functional
+among tech teams, nakaka operate naman, proper documentation, clear requirements
+
+arrangement of timelines
+
+
+equipped naman ako
+
